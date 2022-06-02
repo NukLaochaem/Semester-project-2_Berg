@@ -1,0 +1,28 @@
+header {
+  .hero-banner {
+    width: auto;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+    .banner-text {
+      color: white;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      background-color: rgba(0, 0, 0, 0.815);
+      padding: 20px 20px;
+    }
+  }
+}
+.featured-product-container {
+  .featured-img {
+    max-width: 350px;
+  }
+}
+.more-items-img {
+  max-width: 350px;
+}

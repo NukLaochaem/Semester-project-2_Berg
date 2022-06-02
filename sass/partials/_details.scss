@@ -1,0 +1,29 @@
+.details-product {
+  .add-cart-btn {
+    height: 45px;
+    border: none;
+    margin-top: 20px;
+    color: white;
+    padding: 0 10px;
+    &:hover {
+      background-color: lighten(#292b2c, 10%) !important;
+    }
+  }
+}
+.cart-msg-container {
+  max-width: 400px;
+  margin: 10px auto 0 auto;
+  a {
+    color: $success-color;
+  }
+}
+
+@media (min-width: 768px) {
+  .product-detail-img {
+    width: 500px;
+    height: auto;
+  }
+  .add-cart-btn {
+    width: 30%;
+  }
+}

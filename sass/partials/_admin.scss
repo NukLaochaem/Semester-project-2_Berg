@@ -1,0 +1,71 @@
+.edit-container {
+  background-color: white;
+  margin: 100px auto;
+  max-width: 550px;
+  box-shadow: 0px 25px 40px #00000033;
+  .log-out {
+    display: block;
+    margin-left: auto;
+    font-weight: 500;
+  }
+  .log-out:hover {
+    text-decoration: underline 2px;
+    cursor: pointer;
+  }
+  .edit-btn {
+    color: white;
+    margin-top: 10px;
+    height: 40px;
+    width: 150px;
+    border: none;
+    &:hover {
+      background-color: lighten(#292b2c, 10%) !important;
+    }
+  }
+
+  .add-btn {
+    color: white;
+    margin-top: 10px;
+    height: 40px;
+    width: 150px;
+    border: none;
+    display: block;
+    margin-left: auto;
+    &:hover {
+      background-color: lighten(#292b2c, 10%) !important;
+    }
+  }
+  .delete-btn {
+    margin-top: 10px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    color: red;
+    background-color: white;
+    border: 2px red solid;
+    &:hover {
+      background-color: red;
+      color: white;
+    }
+  }
+}
+.breadcrumb {
+  font-family: "MerriweatherSans Bold";
+}
+.add-more-product a {
+  text-decoration: none;
+}
+.log-out {
+  display: block;
+  margin-left: auto;
+}
+.log-out:hover {
+  text-decoration: underline 2px solid;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+.admin-images {
+  max-height: 200px;
+  display: block;
+  margin: auto;
+}

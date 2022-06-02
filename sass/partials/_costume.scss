@@ -1,0 +1,88 @@
+$primary-color: #ff4500;
+$bg-color: #ebebeb;
+$body-bg-color: #f0f0f0;
+$success-color: rgb(17, 170, 17);
+
+@font-face {
+  font-family: "MerriweatherSans light";
+  src: url(../../font/MerriweatherSans-VariableFont_wght.ttf);
+  font-weight: 300;
+}
+@font-face {
+  font-family: "MerriweatherSans normal";
+  src: url(../../font/MerriweatherSans-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family: "MerriweatherSans Bold";
+  src: url(../../font/MerriweatherSans-VariableFont_wght.ttf);
+  font-weight: 600;
+}
+html,
+body {
+  height: 100%;
+  font-family: "MerriweatherSans light";
+}
+body {
+  background-color: $body-bg-color;
+  display: flex;
+  flex-direction: column;
+  .wrapper {
+    flex: 1 0 auto;
+  }
+}
+footer {
+  flex-shrink: 0;
+  color: white;
+  .footer-copy-right {
+    font-size: 0.7rem;
+  }
+}
+nav {
+  font-family: "MerriweatherSans normal";
+  .nav-item {
+    font-size: 1.2rem;
+    padding: 0 10px;
+  }
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "MerriweatherSans Bold";
+}
+h1 {
+  font-size: 1.4rem;
+}
+h2 {
+  font-size: 1.3rem;
+}
+h3 {
+  font-size: 1.2rem;
+}
+h4 {
+  font-size: 1.1rem;
+}
+p {
+  font-size: 0.8rem;
+}
+button {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.active {
+  text-decoration: underline 2px black;
+  text-underline-offset: 4px;
+}
+.form-error {
+  color: red;
+  font-weight: 600;
+}
+.form-success {
+  color: $success-color;
+  font-weight: 600;
+}
+.footer-copy-right {
+  font-size: 0.6rem !important;
+}
