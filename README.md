@@ -1,6 +1,6 @@
-﻿# Semester-project-2_Berg
+﻿## Semester-project-2_Berg
 
 
-# Running on a local server Strapi
+**Running on a local server Strapi**
 
-Using Strapi for API endpoint, edit, delete and add product.
+- Using Strapi for API endpoint, edit, delete and add product.
