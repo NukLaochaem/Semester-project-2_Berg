@@ -73,7 +73,7 @@ Create form(s) that allow products to be added and edited. The form must allow t
 git clone [git@github.com:NoroffFEU/portfolio-1-example.git](https://github.com/NukLaochaem/semester-project-2_berg)
 ```
 
-2. Run locallly Strapi server: <a ahref="https://github.com/NoroffFEU/strapi-sp2"></a>
+2. Run locallly Strapi server: <a href="https://github.com/NoroffFEU/strapi-sp2"></a>
 ```
 npm install
 
@@ -88,5 +88,5 @@ npm run develop
 To run the project, run the following:
 
 
-Install <a ahref="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> on VS code
+Install <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> on VS code
 
