@@ -74,36 +74,23 @@ This is where you list how to get the project started. It typically just include
 
 1. Clone the repo:
 
-
+```
 git clone [git@github.com:NoroffFEU/portfolio-1-example.git](https://github.com/NukLaochaem/semester-project-2_berg)
-
+```
 
 2. Run locallly Strapi server: <a ahref="https://github.com/NoroffFEU/strapi-sp2"></a>
 ```
 npm install
 
-npm run develop
 ```
-
-3. Install the dependencies:
-
-npm install
-
+- email: admin@admin.com
+- username: admin
+- password: Pass1234
 
 ### Running
-
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
 
 To run the app, run the following commands:
 
 ```bash
-npm run start
+npm run develop
 ```
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
-
-## Acknowledgments
-
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
