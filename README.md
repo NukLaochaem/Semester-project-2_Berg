@@ -2,11 +2,11 @@
 
 ## Description
 
-Berg Shoes is a E-commerce website that has both customer-facing and admin sections. 
+Berg Shoes is a E-commerce website that has both customer-facing and admin sections. <br>
 The website will be populated by a Strapi API supplied by Noroff
 
 
-The Project:
+### The Project:
 
 - Admin page to edit, add and delete products
 - Responsive on all devices
