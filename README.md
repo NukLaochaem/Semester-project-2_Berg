@@ -87,6 +87,6 @@ npm run develop
 
 To run the project, run the following:
 
-```bash
+
 Install <a ahref="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> on VS code
-```
+
