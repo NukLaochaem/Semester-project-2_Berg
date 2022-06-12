@@ -55,7 +55,7 @@ Create form(s) that allow products to be added and edited. The form must allow t
 
 
 
-## Built With
+### Built With
 
 - HTML
 - Css/Sass
@@ -63,14 +63,9 @@ Create form(s) that allow products to be added and edited. The form must allow t
 - Bootstrap
 
 
-## Getting Started
-
-
-
+### Getting Started
 
 ### Installing
-
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
 
 1. Clone the repo:
 
@@ -81,7 +76,6 @@ git clone [git@github.com:NoroffFEU/portfolio-1-example.git](https://github.com/
 2. Run locallly Strapi server: <a ahref="https://github.com/NoroffFEU/strapi-sp2"></a>
 ```
 npm install
-
 ```
 - email: admin@admin.com
 - username: admin
