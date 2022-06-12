@@ -73,7 +73,7 @@ Create form(s) that allow products to be added and edited. The form must allow t
 git clone [git@github.com:NoroffFEU/portfolio-1-example.git](https://github.com/NukLaochaem/semester-project-2_berg)
 ```
 
-2. Run locallly Strapi server: <a href="https://github.com/NoroffFEU/strapi-sp2"></a>
+2. Run locallly Strapi server: <a href="https://github.com/NoroffFEU/strapi-sp2">Here</a>
 ```
 npm install
 
