@@ -76,6 +76,8 @@ git clone [git@github.com:NoroffFEU/portfolio-1-example.git](https://github.com/
 2. Run locallly Strapi server: <a ahref="https://github.com/NoroffFEU/strapi-sp2"></a>
 ```
 npm install
+
+npm run develop
 ```
 - email: admin@admin.com
 - username: admin
@@ -83,8 +85,8 @@ npm install
 
 ### Running
 
-To run the app, run the following commands:
+To run the project, run the following:
 
 ```bash
-npm run develop
+Install <a ahref="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> on VS code
 ```
